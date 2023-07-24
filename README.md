@@ -6,8 +6,11 @@ Project 2: ETL of crowdfunding data by Team 3 -- Arsh Khan, Kangna Parekh, Suhan
 The instructions for this mini project are divided into the following subsections:
 
 -Create the Category and Subcategory DataFrames
+
 -Create the Campaign DataFrame
+
 -Create the Contacts DataFrame
+
 -Create the Crowdfunding Database
 
 ## Summary
